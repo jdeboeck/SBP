@@ -1,5 +1,4 @@
-I_BRKGA_8_2_2_15_CESP 				(instance name)
-8 2 2 492.0 				 	( |G^c|+|G| |G| |S| maximum_price_bid )
+8 2 108				 	(|S| m \tilde{m})
 2159.5						( demand of first scenario )   
 1818.5						( demand of second scenario )   
 0.5305052256859137			( probability of first scenario )   
